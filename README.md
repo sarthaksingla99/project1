@@ -1,1 +1,1 @@
-Sample project two
+Sample project 1
